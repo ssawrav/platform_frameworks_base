@@ -29,8 +29,8 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.android.systemui.R;
-import com.android.systemui.aosip.DetailedWeatherView;
-import com.android.systemui.aosip.OmniJawsClient;
+import com.android.systemui.omni.DetailedWeatherView;
+import com.android.systemui.omni.OmniJawsClient;
 
 import java.util.Arrays;
 
